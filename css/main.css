@@ -85,6 +85,12 @@ h3 {
   width: 80px;
 }
 
+.google-doc {
+  height: 20px;
+  width: 100px;
+  position: relative;
+  left: 40%;
+}
 /*navbar part*/
 .main-menu-continer {
   min-height: 80px;
