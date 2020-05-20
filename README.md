@@ -1,3 +1,3 @@
-# Claudiazhaoya.github.io
+# claudiaryan010420.github.io
 
-This is my personal webpage finished on May 12. I will update it and post more projects on it in the future. Thank you for visiting my page!
+This is the website created for recording life of Claudia and Ryan's. It will keep updating in the future.
